@@ -5,8 +5,8 @@ Portfolio repository containing the DriverPass Business Requirements Document an
 
 This repository contains two major artifacts from my CS-255 System Analysis and Design course:
 
-- Business Requirements Document (BRD)
-- System Design Document (SDD)
+- [Business Requirements Document (BRD)](CS_255_Business_Requirements_Document.docx)
+- [System Design Document (SDD)](DriverPass_System_Design_Document.docx)
 
 These documents represent my ability to analyze a client's business needs, define system requirements, and design a software solution that supports both users and business operations.
 
